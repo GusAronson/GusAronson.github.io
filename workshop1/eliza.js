@@ -29,8 +29,7 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
-  ],
+    "How do you do. Please state your problem.",
   ],
   "~*x photos ~*y": [
   	"is photography art?",
