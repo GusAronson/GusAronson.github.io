@@ -32,7 +32,7 @@ var rules = {
     "How do you do. Please state your problem."
   ],
   ],
-  "~*x photos ~*y" : [
+  "~*x photos ~*y": [
   	"is photography art?",
   	],
   "~*x computer ~*y": [
