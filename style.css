@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(208, 224, 56);
+    color: rgb(255, 255, 255);
 }
 
 h2{
@@ -25,12 +25,12 @@ h2{
 }
 
 a {
-    color: rgb(50, 118, 63);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
@@ -63,7 +63,7 @@ img{
 
 .box{
     background-color: rgb(215, 206, 199);
-    color:  rgb(215, 206, 199);
+    color:  rgb(255, 255, 255);
 }
 
 .half{
