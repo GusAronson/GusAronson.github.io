@@ -1,19 +1,19 @@
 body {
-    background-color: rgb(22, 22, 22);
-    color: linen;
-    font-size: 150%;
-    line-height: 1.4;
+    background-color: rgb(11, 34, 50);
+    color: clear;
+    font-size: 175%;
+    line-height: 4.8;
 }
 
 h1{
-    margin-top:0px;
-    margin-bottom: 10px;
-    border-bottom: 1px solid #AEB7A7;
+    margin-top:3px;
+    margin-bottom: 15px;
+    border-bottom: 3px solid #AEB7A7;
 }
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: rgb(44, 18, 120);
 }
 
 h2{
@@ -46,7 +46,7 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: none;
     font-size: 110%;
     background:gray;
     padding: 4px;
@@ -54,14 +54,14 @@ img{
 }
 
 .button {
-    background: white;
+    background: none;
     font-size: 110%;
     color:gray;
     padding: 4px;
     border:2px solid white;
 }
 
-.redacted{
+.box{
     background-color: rgb(215, 206, 199);
     color:  rgb(215, 206, 199);
 }
@@ -71,7 +71,7 @@ img{
     float: left;
 }
 
-.box { 
+.redacted { 
     width: 250px;
     margin: 15px;
     display: inline-block;
